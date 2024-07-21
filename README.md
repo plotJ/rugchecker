@@ -31,7 +31,7 @@ This Python script is designed to analyze the security of cryptocurrency tokens 
 2. Install required libraries:
    pip install requests beautifulsoup4
 3. Run the script:
-   python token_security_analyzer.py
+   python rugcheck.py
 4. When prompted, enter the token address you wish to analyze
 
 ## Sample Output
